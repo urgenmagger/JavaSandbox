@@ -1,3 +1,10 @@
+/*
+ * out
+x-x-x
+-x-x-
+x-x-x
+-x-x-
+*/
 public class Sand {
   public static void main (String[] args) {
     StringBuilder sb = new StringBuilder(); 
